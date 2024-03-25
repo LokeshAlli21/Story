@@ -1,1 +1,1 @@
-This is just an practice of git and github
+This is just a practice of git and github
